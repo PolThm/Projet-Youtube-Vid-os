@@ -2,6 +2,7 @@ Link to the project: https://youtube-videos.pol-thomas.com/
 
 Main technologies used for the project:
 - React JS
+- Youtube API
 - Semantic UI
 
 ----------------------------------------------------------------------------------------------------
