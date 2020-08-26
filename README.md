@@ -1,4 +1,10 @@
-https://youtube-videos.pol-thomas.com/
+Link to the project: https://youtube-videos.pol-thomas.com/
+
+Main technologies used for the project:
+- React JS
+- Semantic UI
+
+----------------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
